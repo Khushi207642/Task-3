@@ -1,9 +1,4 @@
 # Penetration Testing Toolkit
-
-Project Name: Penetration Testing Toolkit  
-Internship Task: Task-3  
-
-## Description
 This is a Python-based modular penetration testing toolkit created for educational purposes only.
 
 ## Modules
@@ -18,3 +13,4 @@ This is a Python-based modular penetration testing toolkit created for education
 
 ## Disclaimer
 This project is strictly for learning and ethical use only.
+
